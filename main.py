@@ -20,7 +20,7 @@ position = -1
 
 data_esi = {}
 headers = {
-    'User-Agent': 'lars.jemand@gmail.com',
+    'User-Agent': '', #Insert a way to contact you here
     'Accept-Encoding': 'gzip'
 }
 url_evewho = "https://evewho.com/api/allilist/1354830081"
